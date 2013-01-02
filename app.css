@@ -1,0 +1,20 @@
+﻿body
+{
+    font-family: 'Segoe UI', sans-serif
+}
+
+span {
+    font-style: italic
+}
+
+#content
+{
+    height:600px;
+    border:thin;
+    border-color:black;
+}
+#control
+{
+    height: auto;
+}
+ 
